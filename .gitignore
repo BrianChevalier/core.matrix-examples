@@ -1,0 +1,4 @@
+*.jar
+*.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+*.cpcache/*

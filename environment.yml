@@ -1,0 +1,7 @@
+name: clojure
+channels:
+    - simplect
+dependencies:
+    - clojupyter
+    - numpy
+    - scipy

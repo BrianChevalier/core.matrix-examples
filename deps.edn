@@ -1,0 +1,17 @@
+{:deps
+ {brianchevalier/numpy-clj
+  {:git/url "https://github.com/brianchevalier/numpy-clj"
+   :sha "168356dc1256812068a6a65922018b72a68c70f8"}
+  clatrix/clatrix {:mvn/version "0.5.0"}
+  clj-python/libpython-clj {:mvn/version "2.00-alpha-5"}
+  clojupyter/clojupyter {:mvn/version "0.2.3"}
+  criterium/criterium {:mvn/version "0.4.6"}
+  net.mikera/core.matrix {:mvn/version "0.62.0"}
+  net.mikera/vectorz-clj {:mvn/version "0.48.0"}
+  org.clojars.ds923y/nd4clj {:mvn/version "0.1.1-SNAPSHOT"}
+  org.clojure/clojure {:mvn/version "1.10.1"}
+  thinktopic/aljabr {:mvn/version "0.1.1"}}
+ :aliases
+ {:depstar
+  {:extra-deps
+   {seancorfield/depstar {:mvn/version "0.3.0"}}}}}
