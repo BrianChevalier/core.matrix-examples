@@ -1,7 +1,7 @@
 {:deps
  {brianchevalier/numpy-clj
   {:git/url "https://github.com/brianchevalier/numpy-clj"
-   :sha "168356dc1256812068a6a65922018b72a68c70f8"}
+   :sha "e023a323ecc4a1c0b1f73351772de138f925651d"}
   clatrix/clatrix {:mvn/version "0.5.0"}
   clj-python/libpython-clj {:mvn/version "2.00-alpha-5"}
   clojupyter/clojupyter {:mvn/version "0.2.3"}
